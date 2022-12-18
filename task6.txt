@@ -1,0 +1,18 @@
+#include<iostream>
+using namespace std;
+main()
+{
+cout<<"  *****                 oooo      oooo                  ************        
+cout<<"  ******               o    o    o    o                 ***********
+cout<<"  *******                ooo     o    o                 **********
+cout<<"  ********             ooooooo    oooo                  *********      
+cout<<"   ********          ....................               ********
+cout<<"     *******              century                       *******  
+cout<<"       ******        ....................               ******  
+cout<<"         *****         ooooo   ooooo  o   o  ooooo      *****       
+cout<<"           ****          o     o       o o     o        **** 
+cout<<"             ***         o     ooooo    o      o        ***
+cout<<"              **         o     o       o o     o        **
+cout<<"             _||_        o     ooooo o    o    o       -||-
+cout<<"  ..........|____|......                         .....|____|......                  
+cout<<"

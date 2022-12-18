@@ -1,0 +1,28 @@
+#include<iostream>
+using namespace std;
+main()
+{
+cout<<"       ________________________________    " <<endl;
+cout<<"     |                 o                 | " <<endl;
+cout<<"     |            o _________            | " <<endl;
+cout<<"     |    ............................   | " <<endl;
+cout<<"     |    .                          .   | " <<endl;
+cout<<"     |    .                          .   | " <<endl;
+cout<<"     |    .                          .   | " <<endl;
+cout<<"     |    .                          .   | " <<endl;
+cout<<"     |    .                          .   | " <<endl;
+cout<<"     |    .                          .   | " <<endl;
+cout<<"     |    .                          .   | " <<endl;
+cout<<"     |    .                          .   | " <<endl;
+cout<<"     |    .                          .   | " <<endl;
+cout<<"     |    .                          .   | " <<endl;
+cout<<"     |    .                          .   | " <<endl;
+cout<<"     |    .                          .   | " <<endl;
+cout<<"     |    .                          .   | " <<endl;
+cout<<"     |    ............................   | " <<endl;
+cout<<"     |                ___                | " <<endl;
+cout<<"     |               |___|               | " <<endl;
+cout<<"     |                                   | " <<endl;
+cout<<"      ________________________________     " ;  
+
+}
